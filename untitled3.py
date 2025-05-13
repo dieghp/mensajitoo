@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1cAiTRPHitM5QG_6ZjySyC657ODFz2fZo
 """
 
-!pip install streamlit
-
 # Lista de frases
 frases = [
 "Eres mi bien Giffen: cuanto más te tengo, más te necesito.",
